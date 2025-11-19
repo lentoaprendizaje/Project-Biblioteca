@@ -8,6 +8,7 @@ public class ProjectBibliotecaApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ProjectBibliotecaApplication.class, args);
+		System.out.println("Sistema Ejecutado");
 	}
 
 }
